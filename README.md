@@ -1,0 +1,1 @@
+Codice finalizzato alla creazione di funzioni. Il codice prevede la creazione di un grafico attraverso l'uso dell'intelligenza artificiale, e di un testo apparte nel quale saranno presenti i vari dati. Ogni volta che il codice viene attivato nel terminal, verrà creato un nuoov grafico con nuovi dati randomizzati.
